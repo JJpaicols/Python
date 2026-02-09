@@ -1,113 +1,105 @@
-# Repository di Python – Percorso di Apprendimento (Base → Avanzato)
+# Python Repository – Learning Path (Basic → Advanced)
 
-## Descrizione
+## Description
 
-Questa repository contiene una **cartella di scuola** dedicata allo **studio e allo sviluppo della conoscenza del linguaggio Python**, con esempi di codice che coprono un percorso **progressivo**, dal livello **base** fino a concetti **avanzati**.
+This repository contains a **school project folder** dedicated to the **study and development of knowledge of the Python programming language**, with code examples that follow a **progressive learning path**, from **basic** concepts to **advanced** topics.
 
-I file presenti sono pensati per accompagnare lo studente passo dopo passo, permettendo di comprendere non solo come funziona il codice, ma anche perché funziona in quel modo.
-
----
-
-## Obiettivi della repository
-
-* Apprendere Python partendo dalle **basi fondamentali**
-* Sviluppare una comprensione graduale fino a concetti **intermedi e avanzati**
-* Fornire esempi pratici e chiari, facilmente leggibili
-* Rendere il codice **accessibile e comprensibile a tutti**
-* Incentivare lo studio autonomo e la sperimentazione
+The files are designed to guide the student step by step, helping to understand not only how the code works, but also why it works in that way.
 
 ---
 
-## Filosofia del codice
+## Repository Objectives
 
-I file presenti in questa repository sono **codici parlanti**:
-
-* Il codice è scritto in modo **chiaro e leggibile**
-* Sono presenti **commenti esplicativi**
-* I nomi di variabili e funzioni sono **significativi**
-* Ogni script ha uno scopo didattico preciso
-
-L’obiettivo non è solo far funzionare il programma, ma **capire cosa succede riga per riga**.
+* Learn Python starting from the **fundamental basics**
+* Gradually develop skills up to **intermediate and advanced** concepts
+* Provide clear and practical examples
+* Make the code **accessible and understandable to everyone**
+* Encourage self-study and experimentation
 
 ---
 
-## Struttura generale
+## Code Philosophy
 
-La repository può includere (o includerà nel tempo) file relativi a:
+The files in this repository are **self-explanatory codes**:
 
-* Sintassi di base di Python
-* Variabili e tipi di dato
-* Input e output
-* Condizioni (`if`, `elif`, `else`)
-* Cicli (`for`, `while`)
-* Funzioni
-* Liste, tuple, dizionari e set
-* Gestione degli errori
-* Programmazione modulare
-* Concetti avanzati (ad esempio programmazione orientata agli oggetti, gestione dei file, uso di librerie)
+* The code is written in a **clear and readable** way
+* **Explanatory comments** are included
+* Variable and function names are **meaningful**
+* Each script has a specific **educational purpose**
 
-Ogni file rappresenta un **passo nel percorso di apprendimento**.
+The goal is not only to make the program work, but to **understand what happens line by line**.
 
 ---
 
-## Accessibilità
+## General Structure
 
-Questa repository è **pubblica** e permette la **visualizzazione a tutti**, in particolare a:
+The repository may include (or will include over time) files related to:
 
-* Studenti
-* Docenti
-* Appassionati di programmazione
-* Chiunque voglia avvicinarsi allo studio di Python
+* Python basic syntax
+* Variables and data types
+* Input and output
+* Conditions (`if`, `elif`, `else`)
+* Loops (`for`, `while`)
+* Functions
+* Lists, tuples, dictionaries, and sets
+* Error handling
+* Modular programming
+* Advanced concepts (for example object-oriented programming, file handling, and libraries)
 
-È pensata come **materiale didattico** e di supporto allo studio.
-
----
-
-## Come usare questa repository
-
-1. Esplorare i file partendo da quelli più semplici
-2. Leggere attentamente i commenti presenti nel codice
-3. Eseguire gli script e modificarli per fare prove
-4. Utilizzare la repository come supporto allo studio e al ripasso
+Each file represents a **step in the learning path**.
 
 ---
 
-## Nota finale
+## Accessibility
 
-Questa repository rappresenta un **percorso di crescita** nello studio del linguaggio Python.
+This repository is **public** and allows **viewing by everyone**, including:
 
-Il contenuto può evolversi nel tempo con nuovi esempi, miglioramenti e approfondimenti, seguendo lo sviluppo delle competenze acquisite.
+* Students
+* Teachers
+* Programming enthusiasts
+* Anyone interested in learning Python
 
----
-
-## Requisiti
-
-Per utilizzare i file presenti in questa repository è necessario:
-
-* Un ambiente di sviluppo per Python (ad esempio IDLE, VS Code, PyCharm)
-* Conoscenze informatiche di base
-* Sistema operativo Windows, macOS o Linux
+It is intended as **educational material** and study support.
 
 ---
 
-## Versione di Python
+## How to Use This Repository
 
-I file sono scritti per essere compatibili con **Python 3**.
-
-Si consiglia l’utilizzo di una versione **Python 3.8 o superiore** per garantire la corretta esecuzione di tutti gli script.
-
----
-
-## Licenza
-
-Il contenuto di questa repository è reso disponibile **solo a scopo didattico**.
-
-Il codice può essere visualizzato, studiato e utilizzato per l’apprendimento personale e scolastico. Eventuali riutilizzi in altri progetti dovrebbero citare la fonte.
+1. Explore the files starting from the simplest ones
+2. Carefully read the comments inside the code
+3. Run the scripts and modify them to experiment
+4. Use the repository as study and revision support
 
 ---
 
-## Contesto scolastico
+## Requirements
 
-Questa repository è pensata come **consegna e supporto scolastico**, utile per documentare il percorso di apprendimento dello studente nel linguaggio Python.
+To use the files in this repository, you need:
 
-Il materiale non rappresenta un prodotto finale, ma un insieme di esercitazioni e prove volte alla crescita delle competenze di programmazione.
+* A Python development environment (for example IDLE, VS Code, PyCharm)
+* Basic computer knowledge
+* Windows, macOS, or Linux operating system
+
+---
+
+## Python Version
+
+The files are written to be compatible with **Python 3**.
+
+It is recommended to use **Python 3.8 or higher** to ensure correct execution of all scripts.
+
+---
+
+## License
+
+The content of this repository is provided **for educational purposes only**.
+
+The code can be viewed, studied, and used for personal and school learning. Any reuse in other projects should credit the source.
+
+---
+
+## School Context
+
+This repository is intended as a **school assignment and educational support**, useful for documenting the student’s learning path in Python.
+
+The material does not represent a final product, but a collection of exercises and experiments aimed at developing programming skills.
